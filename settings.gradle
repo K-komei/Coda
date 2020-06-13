@@ -1,0 +1,2 @@
+rootProject.name='Coda'
+include ':app'
